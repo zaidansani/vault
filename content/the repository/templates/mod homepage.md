@@ -1,6 +1,7 @@
 [NUSmods](https://nusmods.com/courses/XXXX)
+# Module Information
 
-> [!summary] 
+> [!summary] Name of module
 
 > [!caution] Prerequisites
 
