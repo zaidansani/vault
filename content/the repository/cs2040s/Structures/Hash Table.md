@@ -1,7 +1,5 @@
 > [!summary] A hash table utilises a hash function to assign an index to a value, allowing for constant search time.
 
-```table-of-contents
-```
 # Hash Function
 
 > [!info] A hash function is the function used to determine the *bucket* in which a value is stored. 
