@@ -18,12 +18,12 @@ hoping this would be helpful for anyone who has the opportunity to chance onto i
 
 # mods i've taken
 
-> [!info] cheatsheets for italicised modules can be found on my [github]()!
+> [!info] cheatsheets for highlighted modules can be found on my [github](https://github.com/zaidansani/zai-s-NUS-cheatsheet-stash)!
 ## y1s1 (ay 23/24, sem 1)
 
-- *CS1101S* Programming Methodology I
-- *CS1231S* Discrete Structures
-- *MA1521* Calculus for Computing
+- ==CS1101S== Programming Methodology I
+- ==CS1231S== Discrete Structures
+- ==MA1521== Calculus for Computing
 - GEC1039 International Relations of Asia
 - IS2238 Economics of IT and AI
 ## y1s2 (ay 23/24, sem2)
