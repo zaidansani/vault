@@ -9,8 +9,9 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const logo = `https://${cfg.baseUrl}/static/vault.svg`
   return (
     <h1 class={classNames(displayClass, "page-title")}>
-      <a href={baseDir}>{title}</a>
-      <img src={logo} alt="the vault" width="310" height="210"></img>
+      <a href={baseDir}>
+        <img src={logo} alt="the vault" width="155" height="105"></img>
+      </a>
     </h1>
   )
 }
