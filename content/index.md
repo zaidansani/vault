@@ -1,5 +1,6 @@
 ---
 title: welcome to my vault
+publish: true
 ---
 
 hi, my name is **m. zaidan** (*pronounced* zäɪdän). nice to meet you
