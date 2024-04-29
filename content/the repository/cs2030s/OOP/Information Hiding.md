@@ -1,3 +1,7 @@
+---
+publish: true
+title: Information Hiding
+---
 >[!summary] There should be an abstraction barrier between the client and the implementation.
 
 ## Data hiding

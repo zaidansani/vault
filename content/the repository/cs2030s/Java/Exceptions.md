@@ -1,3 +1,7 @@
+---
+publish: true
+title: Exceptions
+---
 > [!summary] Exception handling and error handling needs to be done for a fully-working application.
 
 # Try-Catch-Finally

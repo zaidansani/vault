@@ -1,3 +1,7 @@
+---
+publish: true
+title: Single Source Shortest Path
+---
 > [!summary] Finding the shortest path between a pair of vertices.
 
 | Condition                 | Algorithm                                               | Time Complexity |

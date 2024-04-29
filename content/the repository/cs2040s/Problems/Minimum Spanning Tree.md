@@ -1,3 +1,7 @@
+---
+publish: true
+title: Minimum Spanning Tree
+---
 > [!summary] An **acyclic** subset of edges that connects all nodes with minimum weight.
 
 # Properties

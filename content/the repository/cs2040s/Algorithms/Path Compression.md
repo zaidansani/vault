@@ -1,3 +1,7 @@
+---
+publish: true
+title: Path Compression
+---
 After finding the root of the tree (the highest parent), set parent of each traversed node to the root.
 
 # `findRoot(p)`

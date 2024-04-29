@@ -1,3 +1,7 @@
+---
+publish: true
+title: Inheritance
+---
 >[!summary] Modeling the _IS-A_ relationship
 
 If a class is a sub-type of another, code that operates on the superclass should operate similarly on its subtypes. This models the **IS-A** relationship.

@@ -1,3 +1,7 @@
+---
+publish: true
+title: Monads
+---
 > [!summary] A monad is a type of programming paradigm, that is usually fulfilled by a `flatMap` or equivalent operation.
 
 # Laws

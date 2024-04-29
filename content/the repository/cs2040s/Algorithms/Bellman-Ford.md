@@ -1,3 +1,7 @@
+---
+publish: true
+title: Bellman-Ford
+---
 # Time Complexity
 
 Relax every edge $e$ $v$ times.

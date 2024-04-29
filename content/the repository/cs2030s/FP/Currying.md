@@ -1,3 +1,7 @@
+---
+publish: true
+title: Currying
+---
 > [!summary] The conversion of multi-variable functions into multiple chained unary functions.
 
 > [!example] Consider the binary function $add(y, z)$.

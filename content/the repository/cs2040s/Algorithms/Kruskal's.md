@@ -1,3 +1,7 @@
+---
+publish: true
+title: "Kruskal's"
+---
 Utilises the [Red-Blue Rule](Red-Blue%20Rule.md) on the edges.
 
 1. Sort edges by smallest to biggest $O(ElogE) = O(ElogV)$

@@ -1,3 +1,7 @@
+---
+publish: true
+title: Topological Sort
+---
 # Depth-First Search
 ## Pre-order
 * Process node when first visited

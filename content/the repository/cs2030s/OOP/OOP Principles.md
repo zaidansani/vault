@@ -1,3 +1,7 @@
+---
+publish: true
+title: OOP Principles
+---
 The key principles of Object-Oriented Programming are as such:
 1. [[Encapsulation]]
 2. [[Inheritance]]

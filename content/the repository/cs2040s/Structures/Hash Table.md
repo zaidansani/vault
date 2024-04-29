@@ -1,3 +1,7 @@
+---
+publish: true
+title: Hash Table
+---
 > [!summary] A hash table utilises a hash function to assign an index to a value, allowing for constant search time.
 
 # Hash Function

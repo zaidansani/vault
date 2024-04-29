@@ -1,3 +1,7 @@
+---
+publish: true
+title: "Prim's"
+---
 # Naive (Non-PQ) Implementation
 1. Iterate through all vertices ($V$ iterations)
 2. For each vertex:

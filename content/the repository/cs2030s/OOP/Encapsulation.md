@@ -1,3 +1,7 @@
+---
+publish: true
+title: Encapsulation
+---
 > [!summary] Using a composite data type to group types together and its associated functions together.
 
 # Modeling a problem in an object-oriented manner

@@ -1,3 +1,7 @@
+---
+publish: true
+title: "Tell-Don't-Ask"
+---
 > [!summary] The client should tell an object to do the computation, instead of retrieving its attributes and doing the computation themselves.
 
 If the internal methods need to be known in order to do something with it, the **abstraction barrier** is broken. Thus, in order to prevent this, the preferred approach is to **implement a method within the class** that does the extra computation.

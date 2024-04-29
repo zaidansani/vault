@@ -1,3 +1,7 @@
+---
+publish: true
+title: Synchronous and Asynchronous
+---
 >[!summary]
 > - A synchronous program blocks until it returns, while an asynchronous program allows for the computation of other processors.
 > - In Java, there is the `Thread`, `CompletableFuture` and also its implementation of the **Fork-Join-Pull** in order to implement asynchronous programming.

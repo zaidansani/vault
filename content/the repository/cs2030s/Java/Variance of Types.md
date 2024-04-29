@@ -1,3 +1,7 @@
+---
+publish: true
+title: Variance of Types
+---
 > [!summary] This refers to how the subtype relationship between **complex types** relates to the subtype relationship between its components.
 
 A complex type is a nested data structure with primitive data types or other complex types. With regards to complex type, if:

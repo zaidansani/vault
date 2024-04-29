@@ -1,3 +1,7 @@
+---
+publish: true
+title: Floyd-Warshall
+---
 [Dynamic Programming](../Paradigms/Dynamic%20Programming.md)
 # Subproblems
 Let $S[v, w, P]$ be the shortest path from $v$ to $w$ that only uses intermediate nodes in the set $P$.

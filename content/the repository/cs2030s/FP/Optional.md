@@ -1,3 +1,7 @@
+---
+publish: true
+title: Optional
+---
 >[!summary] A [[Monads|monad]] that allows for a class to hold a non-existing value without using the `null` value, which may be valid.
 
 > [!info] The Java implementation is the generic type `Optional<T>`.
