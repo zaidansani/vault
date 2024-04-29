@@ -1,3 +1,7 @@
+---
+publish: true
+title: "Dijkstra's"
+---
 # Time Complexity
 
 ``insert`` $V$ times

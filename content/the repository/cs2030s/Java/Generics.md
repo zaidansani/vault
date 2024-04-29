@@ -1,3 +1,7 @@
+---
+publish: true
+title: Generics
+---
 >[!summary] Generics are a complex type which can contain multiple type arguments, which could be non-generic or generic.
 
 # Instantiation

@@ -1,3 +1,7 @@
+---
+publish: true
+title: Polymorphism
+---
 >[!summary] The ability of a method to take multiple forms.
 
 Polymorphism allows for the writing of **future-proof, succinct code** by dynamically deciding method implementation to execute during run-time.

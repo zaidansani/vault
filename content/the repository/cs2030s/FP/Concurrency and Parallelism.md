@@ -1,3 +1,7 @@
+---
+publish: true
+title: Concurrency and Parallelism
+---
 > [!summary] 
 > 
 > - Parallelism implies concurrency, but not the other way.

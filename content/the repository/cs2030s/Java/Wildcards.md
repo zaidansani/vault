@@ -1,3 +1,7 @@
+---
+publish: true
+title: Wildcards
+---
 >[!summary] 
 > Wildcards allow the bounding of the type parameters.
 

@@ -1,3 +1,7 @@
+---
+publish: true
+title: Quick-Find
+---
 
 | object       | .... |
 | ------------ | ---- |

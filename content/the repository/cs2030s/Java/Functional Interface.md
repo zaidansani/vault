@@ -1,3 +1,7 @@
+---
+publish: true
+title: Functional Interface
+---
 >[!summary] [[Abstract Class & Interfaces|Interface]] with only one abstract method.
 
 > [!example] A interface that transforms something into something can be made into a functional interface:

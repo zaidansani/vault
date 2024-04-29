@@ -1,3 +1,7 @@
+---
+publish: true
+title: Abstract Class & Interfaces
+---
 The main differences are as follows:
 
 | Interface                                              | Abstract Class                                            |

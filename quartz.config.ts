@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "m. zaidan",
+    pageTitle: "the vault (m. zaidan)",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -16,7 +16,11 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "zaidansani.github.io/vault",
-    ignorePatterns: ["administrative", "private", "the repository/templates", ".obsidian"],
+    ignorePatterns: [
+      "the repository/administrative", 
+      "private", 
+      "the repository/templates", 
+      ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
@@ -70,7 +74,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "relative" }),
       Plugin.Description(),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [Plugin.ExplicitPublish()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),

@@ -1,3 +1,7 @@
+---
+publish: true
+title: Wrapper Classes
+---
 >[!summary] Used to make primitive types non-primitive, allowing them to be used in generics, and other uses.
 
 

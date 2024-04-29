@@ -1,3 +1,7 @@
+---
+publish: true
+title: useful resources for nus students
+---
 > [!summary] The following are useful resources that I've used in NUS. 
 
 # Module Planning

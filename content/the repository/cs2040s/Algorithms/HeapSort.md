@@ -1,3 +1,7 @@
+---
+publish: true
+title: HeapSort
+---
 1. Heapify the unsorted list
 2. Run ``extractMax`` $n$ times on the heap, and put them in the right order.
 

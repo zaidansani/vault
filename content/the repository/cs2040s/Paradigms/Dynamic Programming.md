@@ -1,3 +1,7 @@
+---
+publish: true
+title: Dynamic Programming
+---
 1. Optimal sub-structure
    - Optimal solution can be constructed from optimal solutions to smaller sub-problems.
 2. Overlapping sub-problems

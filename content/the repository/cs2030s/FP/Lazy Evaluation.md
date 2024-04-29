@@ -1,3 +1,7 @@
+---
+publish: true
+title: Lazy Evaluation
+---
 >[!summary] A type of [[Monads|monad]] allowing for the delay of an execution of a computation.
 
 Lazy evaluation allows for:

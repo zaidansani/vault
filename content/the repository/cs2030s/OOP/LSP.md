@@ -1,3 +1,7 @@
+---
+publish: true
+title: LSP
+---
 >[!summary] 
 >Let $\phi(x)$ be a property provable of objects $x$ of type $T$.
 >Then $\phi(y)$ should be true for objects $y$ of type $S$ where $S <: T$.

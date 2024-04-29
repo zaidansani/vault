@@ -1,3 +1,7 @@
+---
+publish: true
+title: Nested Class
+---
 > [!summary] A nested class is a class defined within a class or method.
 
 - A `static` nested class is associated with the containing class, not an instance.,

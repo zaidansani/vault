@@ -1,3 +1,7 @@
+---
+publish: true
+title: All Pairs Shortest Paths
+---
 > [!summary] Find all the shortest paths between every pair of vertices in a graph.
 
 >[!info] Can be used to find the **diameter** of a graph.

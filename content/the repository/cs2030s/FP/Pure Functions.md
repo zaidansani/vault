@@ -1,3 +1,7 @@
+---
+publish: true
+title: Pure Functions
+---
 >[!summary] A function that does not have side effects.
 
 Ideally, we prefer side-effect-free programming - where functions are similar to functions in mathematics, where given an input, a function computes and returns something without affecting anything else.

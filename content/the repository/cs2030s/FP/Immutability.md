@@ -1,3 +1,7 @@
+---
+publish: true
+title: Immutability
+---
 >[!summary] If an object is immutable, once it has been initialised, it cannot be changed.
 
 # Advantages

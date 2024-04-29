@@ -1,3 +1,7 @@
+---
+publish: true
+title: Prize Collecting
+---
 > [!summary] Given a directed graph, find the maximum amount of "prize" (weight of edges) possible to be obtained.
 
 # Dynamic Programming Solution

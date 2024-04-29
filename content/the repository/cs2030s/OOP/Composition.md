@@ -1,3 +1,7 @@
+---
+publish: true
+title: Composition
+---
 >[!summary] Modelling a _HAS-A_ relationship
 
 Composition can be used to **build up layers** of abstractions, to model the **HAS-A** relationship.

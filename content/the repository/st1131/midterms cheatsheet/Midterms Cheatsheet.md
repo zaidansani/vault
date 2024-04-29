@@ -1,3 +1,7 @@
+---
+publish: true
+title: Midterms Cheatsheet
+---
 
 💤 Midterm cheatsheet, compiled by *m.zaidan*
 

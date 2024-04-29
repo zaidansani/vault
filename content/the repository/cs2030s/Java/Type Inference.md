@@ -1,3 +1,7 @@
+---
+publish: true
+title: Type Inference
+---
 # Rules
 - $Type1 <: T <: Type2$, then $T$ is inferred as $Type1$
 - $Type1 <: T$, then $T$ is inferred as $Type1$
