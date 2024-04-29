@@ -25,8 +25,7 @@ Doing this normally, we would
 ```Java
 
 List<String> getStudentsAboveThreshold(List<Student> students, 
-									   double[] weights,
-									   double threshold) {
+	double[] weights, double threshold) {
 	
 	List<String> result = new ArrayList<String>();
 	
@@ -48,8 +47,7 @@ Now, if we think of it from the `Stream` pipeline perspective,
 ```Java
 
 List<String> getStudentsAboveThreshold(List<Student> students, 
-									   double[] weights,
-									   double threshold) {
+	double[] weights, double threshold) {
 	
 	return Stream.of(students)
 		.filter(s -> s.getMarks(weights) > threshold) // step 1
