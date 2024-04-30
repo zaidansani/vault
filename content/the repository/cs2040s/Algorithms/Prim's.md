@@ -3,6 +3,7 @@ publish: true
 title: "Prim's"
 ---
 # Naive (Non-PQ) Implementation
+
 1. Iterate through all vertices ($V$ iterations)
 2. For each vertex:
 	1. Find the next vertex by looking at the next edge with the minimum weight that has an vertex not visited yet.
@@ -11,6 +12,7 @@ title: "Prim's"
 		2. vertex is not visited yet
 $$ O(V^2)$$
 # Priority Queue Implementation
+
 1. Initialise a priority queue $pq$, inserting all the nodes with the largest possible priority, except for the start vertex, initialised with $0$ priority. $O(Vlog(V))$
 2. Initialise the set $s$ to store all visited nodes, and put the start vertex in. $O(1)$
 3. Initialise the hash table $parent$, and put the start vertex in. $O(1)$
@@ -25,6 +27,22 @@ $$ O(V^2)$$
 $$
 O(Vlog(V) + Elog(V)) =  O((V + E)log(V)) = O(Elog(V))
 $$
+![[diagrams/prim.svg]]
+%%[[diagrams/prim.md|🖋 Edit in Excalidraw]]%%
+
 # Proof Of Correctness
+
 1. Each added edge is the lightest on some cut
 2. Hence, each edge is in MST.
+
+```Java
+
+// imagine u have a list of parsers (parsers)
+// also imagine u have a list to store completable futures (lst)
+
+CompletableFuture<String> cf1 = CompletableFuture.supplyAsync(Main::fetchData)
+for (Supplier p: parsers) {
+	lst.add(cf1.thenApply(p))
+}	
+
+```
