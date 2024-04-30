@@ -37,5 +37,5 @@ _Proof by induction_
 
 # Limitations
 
-1. Fails with negative weights
-2. Graphs cannot be reweightedt
+1. Fails with negative weights.
+2. Graphs cannot be reweighted.

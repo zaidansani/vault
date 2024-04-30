@@ -31,5 +31,13 @@ $$ O(log(n)) $$
 4. Else, do the reverse.
 	1. Change parent of highest parent of $p$ to highest parent of $q$.
 
-# Augmentation
-Adding [[Path Compression]] allows for even faster time.
+# Augmentation (Path Compression)
+
+Adding path compression allows for even more optimisation.
+
+After finding the root of the tree (the highest parent), set parent of each traversed node to the root.
+
+# `findRoot(p)`
+
+1. Find the root of $p$
+2. From $p$, backtrack all the way to root of $p$ while changing the parent of all nodes to the root of $p$.
