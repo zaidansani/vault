@@ -36,7 +36,6 @@ $$
 2. Hence, each edge is in MST.
 
 ```Java
-
 // imagine u have a list of parsers (parsers)
 // also imagine u have a list to store completable futures (lst)
 
@@ -44,5 +43,5 @@ CompletableFuture<String> cf1 = CompletableFuture.supplyAsync(Main::fetchData)
 for (Supplier p: parsers) {
 	lst.add(cf1.thenApply(p))
 }	
-
 ```
+
