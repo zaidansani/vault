@@ -41,8 +41,8 @@ Backtracking, we process `C`
 
 ---
 
-Backtracking, we process `D`
-- `D` - there is no more nodes traverse to, so `D` gets added to the list.
+Backtracking, we process `A`
+- `A` - there is no more nodes traverse to, so `A` gets added to the list.
 
 | LIST |     | A   | C   | E   | D   |
 | ---- | --- | --- | --- | --- | --- |
