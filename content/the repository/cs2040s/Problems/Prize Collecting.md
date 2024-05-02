@@ -21,3 +21,5 @@ If $w_1,...,w_n$ are nodes connected to $v$, the subproblem can be seen as:
 $$
 max({P[w_{1,}k - 1] + weight(v,w_{1),}..... })
 $$
+![[diagrams/prize collecting.excalidraw.svg]]
+%%[[diagrams/prize collecting.excalidraw.md|🖋 Edit in Excalidraw]]%%

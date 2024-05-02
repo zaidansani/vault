@@ -18,3 +18,7 @@ $$ O(nlogn)$$
 2. The left and right child are then heaps (recursively).
 3. If the parent is larger than either, bubble down.
 $$ O(n) $$
+
+![[diagrams/heapify.svg]]
+%%[[diagrams/heapify.md|🖋 Edit in Excalidraw]]%%
+

@@ -15,6 +15,7 @@ title: "Kahn's"
 | Node      | A   | B   | C   | D   | E   |
 | --------- | --- | --- | --- | --- | --- |
 | In-degree | 0   | 0   | 2   | 1   | 2   |
+
 As `A` and `B` have an in-degree of `0`, they are added to the queue.
 
 ---

@@ -93,3 +93,19 @@ Stream.of(1,2,3,4).reduce(1, (x, y) -> x * y, (x, y) -> x * y);
 > - `(x * y) * z = (x) * (y * z)`
 > - `u * (1 * t) = u * t`
 
+## Why is a combiner needed?
+
+For simple examples such as adding all the elements together, or multiplying all the elements, the `combiner` and `accumulator` have the same lambda. These are reductions where the value is accumulated from type `S` to type `S` (in this case, possibly a `int` to `int`)
+
+However, there are some reductions that convert the value from a type `S` to a type `U`. Consider the following example:
+
+> [!example] Example:
+> Reducing an array of `int` to a `String` (based on `char` values.)
+
+Without parallelism, the `accumulator` can accumulate with the function `(prev, curr) -> prev + (char) curr`. This supports an input of `String` and `int`, and returns an output of `String`.
+
+For example: `[104, 101, 108, 108, 111]` can be seen as `"hell" + (char) 111` at its last step.
+
+However, when parallelising, the `combiner` cannot use this same function, as the intermediate results it is combining combines `String` and `String`, and not `String` and `int`. Thus, the `combiner` needed now is instead the `String::concat` function.
+
+For example: the stream may have split into two streams, and accumulated with the results `"hel"` and `"lo"`. We cannot use the accumulator to combine these two results, but need to use the concatenation method `String::concat`. 
