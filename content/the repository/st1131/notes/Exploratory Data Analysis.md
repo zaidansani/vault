@@ -6,8 +6,8 @@ title: Exploratory Data Analysis
 
 # Variables
 
-![[media/variables.svg]]
-%%[[media/variables.md|🖋 Edit in Excalidraw]]%%
+![[../media/variables.svg]]
+%%[[../media/variables.md|🖋 Edit in Excalidraw]]%%
 
 A **quantitative** variable is a variable where the values of the observations are **numerical**.
 - **discrete** variables are quantitative variables where they are countable
@@ -139,8 +139,8 @@ A **histogram** uses bars to portray (relative) frequencies of possible outcomes
 > - modality (is the distribution **unimodal, bimodal or multimodal**)
 > - skew (is the distribution **symmetric, right skew, or left skew**)
 
-![[media/graphical summaries.svg]]
-%%[[media/graphical summaries.md|🖋 Edit in Excalidraw]]%%
+![[../media/graphical summaries.svg]]
+%%[[../media/graphical summaries.md|🖋 Edit in Excalidraw]]%%
 
 ---
 
@@ -178,14 +178,14 @@ Using relative frequencies like **percentage**, the contingency table is:
 | `Total` | `100` | `100` | `100` | `100` |
 #### Bar Plots
 
-![[media/bar plots.svg]]
-%%[[media/bar plots.md|🖋 Edit in Excalidraw]]%%
+![[../media/bar plots.svg]]
+%%[[../media/bar plots.md|🖋 Edit in Excalidraw]]%%
 
 #### Boxplot
 
 > [!tip] Used for **one categorical, one quantitative**
 
-![[media/box plots.svg]]
+![[../media/box plots.svg]]
 %%[[media/box plots.md|🖋 Edit in Excalidraw]]%%
 
 We can look for:
