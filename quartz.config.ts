@@ -20,7 +20,8 @@ const config: QuartzConfig = {
       "the repository/administrative", 
       "private", 
       "the repository/templates", 
-      ".obsidian"],
+      ".obsidian",
+      "the repository/.obsidian",],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
