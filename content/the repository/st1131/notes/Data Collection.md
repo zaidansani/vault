@@ -92,5 +92,5 @@ Elements for a good experimental study are:
 > - _response bias_: participants not honest when answering question/answering wrongly
 
 ![[media/sample bias.svg]]
-%%[[media/sample bias.md|🖋 Edit in Excalidraw]]%%
+%%[[media/sample bias|🖋 Edit in Excalidraw]]%%
 
