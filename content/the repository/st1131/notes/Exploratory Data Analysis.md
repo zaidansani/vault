@@ -196,7 +196,7 @@ We can look for:
 #### Scatterplot
 
 ![[media/scatterplots.svg]]
-%%[[media/scatterplots|🖋 Edit in Excalidraw]]%%
+%%[[media/scatterplots.md|🖋 Edit in Excalidraw]]%%
 
 Look for
 - relationship/association between two variables
