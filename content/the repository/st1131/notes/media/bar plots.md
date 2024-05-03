@@ -21,6 +21,35 @@ Stacked Bar Plot ^29rqmWSM
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.6",
 	"elements": [
 		{
+			"id": "LMEpZm3ZR5WuBKb5Pn8Kb",
+			"type": "rectangle",
+			"x": -208.7367536139087,
+			"y": -384.77575638217814,
+			"width": 1064.0000406901045,
+			"height": 463.99998982747405,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e7f5ff",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dotted",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1330503919,
+			"version": 202,
+			"versionNonce": 863726127,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1714757008466,
+			"link": null,
+			"locked": false
+		},
+		{
 			"type": "arrow",
 			"version": 325,
 			"versionNonce": 1419838973,
@@ -557,7 +586,7 @@ Stacked Bar Plot ^29rqmWSM
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "#e9ecef",
+		"currentItemBackgroundColor": "#e7f5ff",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "dotted",
@@ -568,10 +597,10 @@ Stacked Bar Plot ^29rqmWSM
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 215.99310283516263,
-		"scrollY": 586.5808601732439,
+		"scrollX": 337.7366925787524,
+		"scrollY": 894.7757309508632,
 		"zoom": {
-			"value": 0.75
+			"value": 0.5999999999999999
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
