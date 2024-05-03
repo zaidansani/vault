@@ -30,7 +30,9 @@ $X \sim Bin(n,p)$
 
 $$
 P(X = k) = \frac{e^{-\mu}\mu^k}{k!}
-$$ where 
+$$ 
+
+where 
 - $e$ is approximately $2.71828$
 - $\lambda$ is the expected no. of events per time unit
 - $\mu = \lambda t$ is the expected no. of events over time period $t$
