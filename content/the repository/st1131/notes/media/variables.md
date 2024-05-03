@@ -783,42 +783,6 @@ Nominal ^bEBbRSLR
 					85.60000610351562
 				]
 			]
-		},
-		{
-			"type": "text",
-			"version": 2,
-			"versionNonce": 1544960907,
-			"isDeleted": true,
-			"id": "hajzNYdP",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 510.66666666666663,
-			"y": 417.2666575113933,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e9ecef",
-			"width": 10,
-			"height": 25,
-			"seed": 990122571,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1714756770225,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "",
-			"rawText": "",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -836,10 +800,10 @@ Nominal ^bEBbRSLR
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 256.0000000000002,
-		"scrollY": 471.0000050862632,
+		"scrollX": 623.5555555555566,
+		"scrollY": 1076.5658163739079,
 		"zoom": {
-			"value": 0.7499999999999998
+			"value": 0.4499999999999996
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

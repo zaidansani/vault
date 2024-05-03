@@ -36,6 +36,35 @@ Non-response ^hL4fAukD
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.6",
 	"elements": [
 		{
+			"id": "L1e_tatezQJ-ppuWdjLKz",
+			"type": "rectangle",
+			"x": -352.83706251307615,
+			"y": -341.78338841579284,
+			"width": 924.0000915527345,
+			"height": 617.0000076293946,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffffff",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1521084225,
+			"version": 116,
+			"versionNonce": 1107039457,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1714757064529,
+			"link": null,
+			"locked": false
+		},
+		{
 			"type": "rectangle",
 			"version": 580,
 			"versionNonce": 1662631009,
@@ -674,7 +703,7 @@ Non-response ^hL4fAukD
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "#e9ecef",
+		"currentItemBackgroundColor": "#ffffff",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "dashed",
@@ -685,10 +714,10 @@ Non-response ^hL4fAukD
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -5422.406712123297,
-		"scrollY": 6052.219745702035,
+		"scrollX": 381.58706251307615,
+		"scrollY": 656.283376971701,
 		"zoom": {
-			"value": 0.2
+			"value": 0.7999999999999999
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

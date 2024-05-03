@@ -25,6 +25,35 @@ categorical ^PuktMFi8
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.6",
 	"elements": [
 		{
+			"type": "rectangle",
+			"version": 353,
+			"versionNonce": 617719969,
+			"isDeleted": false,
+			"id": "ef5l-7pxbR2Vkisit0Qsl",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dotted",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -566.3511385997275,
+			"y": -310.7158744129515,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e7f5ff",
+			"width": 702.1437843934996,
+			"height": 610.1569103868695,
+			"seed": 626315233,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1714757019815,
+			"link": null,
+			"locked": false
+		},
+		{
 			"type": "line",
 			"version": 86,
 			"versionNonce": 1070740701,
@@ -740,10 +769,10 @@ categorical ^PuktMFi8
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "arrow",
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 618.1520717236014,
-		"scrollY": 289.6057338063604,
+		"scrollX": 927.968997580489,
+		"scrollY": 748.8388601354808,
 		"zoom": {
-			"value": 1.8
+			"value": 0.6787226484203202
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
