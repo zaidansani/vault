@@ -1,6 +1,8 @@
 ---
 publish: true
 title: Sampling Distribution
+tags:
+  - statistics
 ---
 # Central Limit Theorem
 

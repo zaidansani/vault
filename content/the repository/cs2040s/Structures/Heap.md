@@ -4,7 +4,7 @@ title: Heap
 ---
 > [!info] Used to implement a max priority queue
 
-Used for [HeapSort](HeapSort.md)
+Used for [HeapSort](../Algorithms/HeapSort.md)
 # Properties
 
 ## Heap Ordering

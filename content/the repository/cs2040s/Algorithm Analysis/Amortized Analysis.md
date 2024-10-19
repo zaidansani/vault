@@ -1,9 +1,10 @@
 > [!summary] 
 > Used for algorithms where an occasional operation is very slow, but most of the other operations are faster.
 
-An operation has **amortized cost** $T(n) $if for every integer $k$, the cost of $k$ operations is $\leq kT(n)$
+An operation has **amortized cost** $T(n)$ if for every integer $k$, the cost of $k$ operations is $\leq kT(n)$
+
 $$
-k \text{ operations } \leq kT(n) \; \forall k\implies T(n) 
+k \text{ operations } \leq kT(n) \; \forall k\implies T(n)
 $$
 
 ---

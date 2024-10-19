@@ -1,7 +1,11 @@
 ---
 publish: true
 title: Random Variables
+tags:
+  - statistics
 ---
+
+
 
 > [!info] Random variable
 > Numerical measurement of outcome of an experiment.

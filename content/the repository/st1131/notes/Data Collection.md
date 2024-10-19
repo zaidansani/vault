@@ -1,6 +1,8 @@
 ---
 publish: true
 title: Data Collection
+tags:
+  - statistics
 ---
 # Lurking and Confounding Variables
 

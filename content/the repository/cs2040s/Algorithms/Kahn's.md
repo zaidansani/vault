@@ -9,7 +9,7 @@ title: "Kahn's"
 > [!example] Worked example
 
 ![[../Problems/diagrams/topological ordering.svg]]
-%%[[../Problems/diagrams/topological ordering.md|🖋 Edit in Excalidraw]]%%
+%%[[../Problems/diagrams/topological ordering|🖋 Edit in Excalidraw]]%%
 
 
 | Node      | A   | B   | C   | D   | E   |

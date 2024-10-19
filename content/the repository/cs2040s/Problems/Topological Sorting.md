@@ -12,7 +12,7 @@ When the node is processed, add it to the list.
 > [!example] Worked example:
 
 ![[diagrams/topological ordering.svg]]
-%%[[diagrams/topological ordering.md|🖋 Edit in Excalidraw]]%%
+%%[[diagrams/topological ordering|🖋 Edit in Excalidraw]]%%
 
 Consider the graph above. The post-order DFS (from `A`) goes through
 
@@ -65,7 +65,7 @@ The topological order is not necessarily unique.
 >[!example]
 
 ![[diagrams/topological ordering.svg]]
-%%[[diagrams/topological ordering.md|🖋 Edit in Excalidraw]]%%
+%%[[diagrams/topological ordering|🖋 Edit in Excalidraw]]%%
 
 Consider the same graph as given above. There can be multiple topological orderings for the given graph.
 - `A, B, C, D, E`

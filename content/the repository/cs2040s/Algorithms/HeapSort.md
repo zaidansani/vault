@@ -20,5 +20,5 @@ $$ O(nlogn)$$
 $$ O(n) $$
 
 ![[diagrams/heapify.svg]]
-%%[[diagrams/heapify.md|🖋 Edit in Excalidraw]]%%
+%%[[diagrams/heapify|🖋 Edit in Excalidraw]]%%
 

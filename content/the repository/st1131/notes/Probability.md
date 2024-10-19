@@ -1,6 +1,8 @@
 ---
 publish: true
 title: Probability
+tags:
+  - statistics
 ---
 # Concepts
 
@@ -91,4 +93,27 @@ $$
 
 $$
 Prevalence = P(D)
+$$
+### Confusion Matrix
+
+Adapted from [Wikipedia](https://en.wikipedia.org/wiki/Sensitivity_and_specificity).
+
+| P + N      | Predicted +ve | Predicted -ve |
+| ---------- | ------------- | ------------- |
+| Actual +ve | TP            | FN            |
+| Actual -ve | FP            | TN            |
+$$
+\begin{align*}
+Prevalence &= \frac{P}{P+N}\\
+Accuracy &= \frac{TP+TN}{P+N}\\
+\\
+PPV &= \frac{TP}{PP} \\
+NPV &= \frac{TN}{PN} \\
+\\
+TPR &= \frac{TP}{P}\\
+FNR &= \frac{FN}{P}\\
+FPR &= \frac{FP}{N}\\
+TNR &= \frac{TN}{N}\\
+ 
+\end{align*}
 $$
