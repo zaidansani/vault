@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "zaidansani.github.io/vault",
     ignorePatterns: ["administrative", "private", "the repository/templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

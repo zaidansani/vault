@@ -18,7 +18,7 @@ hoping this would be helpful for anyone who has the opportunity to chance onto i
 
 # mods i've taken
 
-> [!info] cheatsheets for italicised modules can be found on my github!
+> [!info] cheatsheets for italicised modules can be found on my [github]()!
 ## y1s1 (ay 23/24, sem 1)
 
 - *CS1101S* Programming Methodology I
